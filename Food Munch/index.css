@@ -1,0 +1,19 @@
+/* Color - #DAA520 */
+
+.link-andi:hover{
+    text-decoration: none;
+    text-shadow: 0.5px 0.5px 1px;
+}
+.logo:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.button:hover{
+    text-decoration: underline;
+}
+.linkedd:hover{
+    background-color: #D2B55B;
+}
